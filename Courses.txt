@@ -1,0 +1,6 @@
+am2,Advanced Math 2,false,true
+wrldlit,English,false,true
+wrldhist,History,false,false
+apchem,AP Chemistry,true,true
+csa,AP Computer Science Advanced,true,true
+horch,Honors Orchestra,false,false
